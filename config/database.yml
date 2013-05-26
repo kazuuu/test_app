@@ -53,4 +53,4 @@ production:
   host: localhost
   pool: 5
   username: test_app
-  password: viruss
+  password: virus
