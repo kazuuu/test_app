@@ -22,7 +22,7 @@ set :use_sudo, false
 # Git
 
 set :scm, :git
-set :repository,  "~/#{application}/.git"
+set :repository,  "git@github.com:kazuuu/test_app.git"
 set :branch, "master"
 
 # VPS
